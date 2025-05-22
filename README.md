@@ -11,9 +11,7 @@ Our model is a classic decoder-only Transformer, but the training pipeline is pa
 *   **HellaSwag Benchmark:** 🎯 Our model achieved an accuracy of **25%** on the HellaSwag common-sense NLI benchmark. Given HellaSwag is a 4-choice task, 25% is the baseline for random guessing. This result provides a transparent starting point for this configuration and dataset.
 *   **Training & Validation Loss:** 📉 See our model learn! The plot below shows the training and validation loss curves, illustrating its progress over time.
 
-    ![Training and Validation Loss](Screenshot 2025-05-22 153211.png])
-    *(Heads up! You'll need to replace `[link_to_your_loss_plot_image.png]` with the actual path/URL to your awesome loss plot image!)*
-
+    ![Training and Validation Loss](Screenshot%202025-05-22%20153211.png)
 ---
 
 ## ✨ Features Packed In
